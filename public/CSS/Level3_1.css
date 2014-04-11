@@ -110,9 +110,9 @@ form {
 
 .titlebar {
 	font-family: "Times New Roman", Times, serif;
-	font-size: 9px;
+	font-size: 18px;
 	color: #FFFFFF;
-  background-color: #336699;
+	background-color: #336699;
 }
 
 .dingbat {
@@ -134,4 +134,3 @@ input.big {
 input.small {
 	width: 50px;
 }
-

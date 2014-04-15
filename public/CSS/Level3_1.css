@@ -4,6 +4,7 @@ body {
 	font-size: 12px;
 	line-height: 36px;
 	color: #336699;
+	padding-left: 12px;
 }
 
 td, th {
@@ -35,7 +36,7 @@ form {
 	font-size: 16px;
 	line-height: 22px;
 	font-weight: bold;
-  color: #006666;
+	color: #006666;
 }
 
 .header {
@@ -104,15 +105,17 @@ form {
 }
 
 .promo {
-	font-family: "Times New Roman", Times, serif;
+	font-family: Arial, Helvetica, sans-serif;
 	color: #000033;
 }
 
 .titlebar {
-	font-family: "Times New Roman", Times, serif;
-	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
 	color: #FFFFFF;
 	background-color: #336699;
+	padding-left: 12px;
+	margin-top: 10px;
 }
 
 .dingbat {

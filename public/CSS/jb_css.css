@@ -1,5 +1,5 @@
 body {
-	background-color: #DCDCDC;
+	background-color: #FFFFFF;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 12px;
 	line-height: 36px;
@@ -35,7 +35,7 @@ form {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 16px;
 	font-weight: bold;
-	color: #006666;
+	color: #000000;
 	line-height: 20px;
 	margin-top: 60px;
 }
@@ -113,10 +113,16 @@ form {
 .titlebar {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 24px;
-	color: #FFFFFF;
-	background-color: #336699;
+	color: #000000;
+	background-color: #FFFFFF;
 	padding-left: 12px;
 	margin-top: 10px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #0000000;
+	border-radius: 10px 10px 10px 10px;
+
+
 }
 
 .dingbat {
@@ -130,6 +136,18 @@ form {
 a:hover {
 	text-decoration: underline;
 }
+.captioned_photo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #000;
+	margin-top: 60px;
+}
+
 
 input.big {
 	width: 100px;

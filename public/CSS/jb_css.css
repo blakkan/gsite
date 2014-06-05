@@ -158,10 +158,10 @@ a:hover {
 }
 
 .captioned_photo img {
-	-webkit-box-shadow: 4px 4px 4px rgba(204,204,204,0.60);
-	-moz-box-shadow: 4px 4px 4px rgba(204,204,204,0.60);
-	-o-box-shadow: 4px 4px 4px rgba(204,204,204,0.60);
-	box-shadow: 4px 4px 4px rgba(204,204,204,0.60);
+	-webkit-box-shadow: 4px 4px 2px rgba(20,20,20,0.40);
+	-moz-box-shadow: 4px 4px 2px rgba(20,20,20,0.40);
+	-o-box-shadow: 4px 4px 2px rgba(20,20,20,0.40);
+	box-shadow: 4px 4px 2px rgba(20,20,20,0.40);
 }
 
 

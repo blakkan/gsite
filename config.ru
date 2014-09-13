@@ -2,6 +2,8 @@ use Rack::Static,
   :urls => ["/images", "/js", "/CSS"],
   :root => "public"
 
+$stdout.sync = true
+
 run lambda { |env|
   [
     200,
